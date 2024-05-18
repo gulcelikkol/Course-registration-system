@@ -1,0 +1,94 @@
+CPT111	Principles of Programming	3
+CPT112	Discrete Structures	4
+CPT113	Programming Methodology & Data Structures	3
+CPT115	Mathematical Methods for Computer Science	4
+CPT212	Design & Analysis of Algorithms	4
+CPC151	Fundamentals of Logic and Artificial Intelligence	4
+CMT221	Database Organisations & Design	3
+CST131	Computer Organisations	4
+CST232	Operating Systems	4
+CST235	Principles of Computer Networks and Information Security	4
+CSE241	Foundations of Software Engineering	3
+CAT201	Integrated Software Development Workshop	4
+CAT302	Industrial Training	12
+CAT304	Group Innovation Project and Study for Sustainability	4
+CAT402	Professional & Technopreneurship Development	4
+CPC251	Machine Learning and Computing Intelligence	4
+CPT411	Automata Theory and Formal Languages	4
+CAT405	Intelligent Computing Major Project	8
+CPT316	Programming Language Implementation and Paradigms	3
+CST435	Principles of Parallel Computing	3
+CST236	Digital Systems Design	4
+CST431	Systems Security and Protection	4
+CAT403	Computing Infrastructure Major Project	8
+CSE242	Software Requirements Analysis and Modelling	3
+CSE341	Software Architecture and Design	4
+CSE441	Software Process and Quality Assurance	4
+CSE442	Software Testing	3
+CAT404	Software Engineering Major Project	8
+CPC351	Principles of Data Analytics	3
+CPC352	Multimedia Systems and Interactive Design	4
+CPC353	Natural Language Processing	4
+CPC354	Computer Graphics and Visualisation	3
+CPC355	Computer Vision and Robotics	4
+CPC356	Mobile and Game Platform-based Development	3
+CPC451	Big Data Technologies and Management	4
+CPC452	Animation and Virtual Reality	4
+CMT321	Management and Engineering of Databases	4
+CMT322	Web Engineering & Technologies	3
+CMT323	Information Systems Theory and Management	3
+CMT425	Enterprise Architecture and Systems	4
+CMT426	Business Intelligence and Analytics	4
+CMT427	Information Storage & Retrieval	4
+CSE342	Dependable Software Systems Engineering	4
+CSE443	Real Time Software Engineering	3
+CST330	Network Programming	3
+CST337	Network Configuration and Protocols	3
+CST338	Network and Communication Security	3
+CST339	Information Security Management and Assurance	3
+CST432	Microprocessors and Embedded Systems	4
+CST434	Wireless Networks and Mobile Computing	3
+CST436	Digital Forensics and Investigations	3
+CST437	Distributed and Cloud Computing	4
+CST438	Cryptography and Security Applications	4
+AKW103	Introduction to Management	4
+AKW104	Finance and Accounting	4
+AKP201	Marketing	4
+AKP202	Organisational Behaviour	4
+AKP302	Operations Management	4
+MAA101	Calculus for Science Students	4
+MAA111	Algebra for Science Students	4
+MAA161	Statistics for Science Students	4
+MAT203	Vector Calculus	4
+MAT223	Differential Equations	4
+MAT263	Probability Theory	4
+MSS311	Modern Algebra	4
+MSG162	Applied Statistical Methods	4
+MSG362	Quality Control	4
+LMT100	Preparatory English	2
+LSP300	Academic English	2
+LSP404	Technical & Engineering English	2
+LHP456	Spoken English	2
+LKM100	Basic Bahasa Malaysia	2
+LKM400	Bahasa Malaysia	2
+LAJ100	Japanese 1	2
+LAJ200	Japanese 2	2
+LAJ300	Japanese 3	2
+LAJ400	Japanese 4	2
+LAE100	Spanish 1	2
+LAE200	Spanish 2	2
+LAE300	Spanish 3	2
+LAE400	Spanish 4	2
+HFF225	Philosophy and Current Issues	2
+HFE224	Appreciation of Civilisations and Ethics	2
+WUS101	Core Entrepreneurship	2
+WKM102	Community Service	2
+WSK102	Volunteerism Science	2
+WEC102	Public Speaking in Malay Language	2
+WEC103	Public Speaking in English Language	2
+WSU101	Sustainability of Issues, Challenges and Prospects	2
+WCC107	Guitar	2
+WCC115	Modern Dance	2
+WSC112	Swimming	2
+WSC125	Futsal	2
+
